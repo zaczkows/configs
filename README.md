@@ -1,1 +1,3 @@
-# configs
+# Personal config files
+
+TODO: everything
